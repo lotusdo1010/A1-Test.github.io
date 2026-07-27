@@ -1,0 +1,842 @@
+.Desktop12{width: 100%; height: 100%; position: relative;}
+
+.BacgroundDaEn{width: 1440px; height: 9216px; left: 0px; top: 0px; position: absolute; background: #F2F1EC;}
+
+.LOpoldSDarSenghor{
+    width: 679px; height: 164px; left: 613px; top: 578.90px; position: relative; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D14B29; font-size: 64px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: poetryname;
+     animation-duration: 1.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes poetryname {
+    0% {top: 800px; left: 613px; opacity: 0%}
+    100% {top:578.90px; left: 613px; opacity: 100%} 
+}
+.WhoIsColoredPoMeMonFrReBlanc{width: 1378.80px; height: 344.90px; left: 30px; top: 214px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: authorname;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes authorname {
+    0% {top: 800px; left: 30px; opacity: 0%}
+    100% {top: 214px; left: 30px; opacity: 100%} 
+}
+
+.I{width: 166px; height: 163px; left: 847px; top: 1223px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: i2;
+     animation-delay: 3.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes i2{
+    0% {top: 1400px; left: 1013;opacity: 0%}
+    100% {top: 1223px; left: 1013;opacity: 100%} 
+}
+.WhenI{
+     width: 446px; height: 164px; left: 147px; top: 1039px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: wheni2;
+     animation-delay: 2,5s;
+     animation-fill-mode: backwards;
+     animation-duration: 3s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni2 {
+    0% {top: 1039px; left: 0px; opacity:0%;}
+    100% {top: 1039px; left: 147px; opacity: 100%} 
+}
+.Born{width: 214px; height: 164px; left: 613px; top: 1039px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: born;
+     animation-delay: 2.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes born {
+    0% {top: 1039px; left: 147px; opacity: 0%}
+    100% {top: 1039px; left: 613px; opacity: 100%} 
+}
+.Black{width: 280px; height: 163px; left: 1013px; top: 1223px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: black1;
+     animation-delay: 3.5s;
+     animation-duration: 2s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;   
+}
+@keyframes black1{
+    0% {top: 1400px; left: 1013px; opacity: 0%;}
+    100% {top:1223px; left:1013px; opacity: 100%;}
+}
+.Black:hover{color:black;}
+.bedaden{width: 764px; height: 716px; left: 147px; top: 1223px; position: absolute; display: flex;}
+
+.Artboard3{width: 1429px; height: 1016px; left: 50px; top: 2002px; position: absolute; display: flex;}
+.I3{width: 166px; height: 163px; left: 847px; top: 2234px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: i3;
+     animation-delay: 7.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes i3{
+    0% {top: 2400px; left: 847;opacity: 0%}
+    100% {top: 2234px; left: 847;opacity: 100%} 
+}
+.WhenI3{width: 446px; height: 164px; left: 147px; top: 2050px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: wheni3;
+     animation-delay: 6.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni3{
+    0% {top: 2050px; left: 0px; opacity: 0%}
+    100% {top: 2050px; left: 147px; opacity: 100%} 
+}
+.GrowUp{width: 447px; height: 164px; left: 613px; top: 2050px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: growup;
+     animation-delay: 6.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes growup {
+    0% {top: 2050px; left: 147px; opacity: 0%}
+    100% {top: 2050px; left: 613px; opacity: 100%} 
+}
+.Black3{width: 280px; height:63px; left: 1013px; top: 2280px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: black3;
+     animation-delay: 7.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes black3{
+    0% {top: 2400px; left: 1013;opacity: 0%}
+    100% {top: 2280px; left: 1013;opacity: 100%} 
+}
+.Black3:hover{color:black;}
+
+.Artboard4{width: 1133px; height: 806px; left: -109px; top: 3333px; position: absolute; display:flex;}
+.I4{width: 166px; height: 163px; left: 847px; top: 3242px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+         animation-name: i4;
+     animation-delay: 11.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes i4{
+    0% {top: 3400px; left: 847;opacity: 0%}
+    100% {top: 3242px; left: 847;opacity: 100%} 
+}
+.WhenI4{width: 446px; height: 164px; left: 147px; top: 3058px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: wheni4;
+     animation-delay: 10.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni4 {
+    0% {top: 3058px; left: 0px; opacity: 0%}
+    100% {top: 3058px; left: 147px; opacity: 100%} 
+}
+.GoInSun{width: 447px; height: 164px; left: 613px; top: 3058px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+        animation-name: goinsun;
+     animation-delay: 10.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes goinsun {
+    0% {top: 3058px; left: 147px; opacity: 0%}
+    100% {top: 3058px; left: 613px; opacity: 100%} 
+}
+.Black4{width: 280px; height: 163px; left: 1013px; top: 3242px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: black4;
+     animation-delay: 11.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes black4{
+    0% {top: 3400px; left: 847;opacity: 0%}
+    100% {top: 3242px; left: 847;opacity: 100%} 
+}
+.Black4:hover{color:black;}
+
+.Artboard5{width: 1404px; height: 998px; left: 18px; top: 4242px; position: absolute; display:flex;}
+.I5{width: 166px; height: 163px; left: 847px; top: 4434px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: i5;
+     animation-delay: 15.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes i5{
+    0% {top: 4600px; left: 847;opacity: 0%}
+    100% {top: 4434px; left: 847;opacity: 100%} 
+}
+
+.WhenI5{width: 446px; height: 164px; left: 147px; top: 4250px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: wheni5;
+     animation-delay: 14.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni5{
+    0% {top: 4250px; left: 0px; opacity: 0%}
+    100% {top: 4250px; left: 147px; opacity: 100%} 
+}
+.Cold{width: 330px; height: 164px; left: 613px; top: 4250px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: cold;
+     animation-delay: 14.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes cold{
+    0% {top: 4250px; left: 147px; opacity: 0%}
+    100% {top: 4250px; left: 613px; opacity: 100%} 
+}
+.Black5{width: 280px; height: 163px; left: 1013px; top: 4434px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;     
+     animation-name: black5;
+     animation-delay: 15.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes black5{
+    0% {top: 4600px; left: 1013;opacity: 0%}
+    100% {top: 4434px; left: 1013;opacity: 100%} 
+}
+.Black5:hover{color:black;}
+
+.Artboard6{width: 1010px; height: 719px; left: -47px; top: 5469px; position: absolute; display:flex;}
+.I6{width: 166px; height: 163px; left: 847px; top: 5444px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+         animation-name: i6;
+     animation-delay: 19.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes i6{
+    0% {top: 5600px; left: 847;opacity: 0%}
+    100% {top: 5444px; left: 847;opacity: 100%} 
+}
+.WhenI6{width: 446px; height: 164px; left: 147px; top: 5260px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+    animation-name: wheni6;
+     animation-delay: 18.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni6{
+    0% {top: 5260px; left: 0px; opacity: 0%}
+    100% {top: 5260px; left: 147px; opacity: 100%} 
+}
+.Scared{width: 330px; height: 164px; left: 613px; top: 5260px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+         animation-name: scared;
+     animation-delay: 18.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes scared{
+    0% {top: 5260px; left: 147px; opacity: 0%}
+    100% {top: 5260px; left: 613px; opacity: 100%} 
+}
+.Black6{width: 280px; height: 163px; left: 1013px; top: 5444px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: black6;
+     animation-delay: 19.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+.Black6:hover{color:black;}
+@keyframes black6{
+    0% {top: 5600px; left: 1013;opacity: 0%}
+    100% {top: 5444px; left: 1013;opacity: 100%} 
+}
+
+.Artboard7{width: 1440px; height: 1024px; left: -30px; top: 6299px; position: absolute;display:flex;}
+.I7{width: 166px; height: 163px; left: 847px; top: 6454px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: i7;
+     animation-delay: 23.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes i7{
+    0% {top: 6600px; left: 847;opacity: 0%}
+    100% {top: 6454px; left: 847;opacity: 100%} 
+}
+.WhenI7{width: 446px; height: 164px; left: 194px; top: 6270px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: wheni7;
+     animation-delay: 22.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni7{
+    0% {top: 6270px; left: 0px; opacity: 0%}
+    100% {top: 6270px; left: 194px; opacity: 100%} 
+}
+.Sick{width: 330px; height: 164px; left: 613px; top: 6269px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: sick;
+     animation-delay: 22.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes sick{
+    0% {top: 6269px; left: 147px; opacity: 0%}
+    100% {top: 6269px; left: 613px; opacity: 100%} 
+}
+
+.Black7{width: 280px; height: 163px; left: 1013px; top: 6454px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: black7;
+     animation-delay: 23.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes black7{
+    0% {top: 6600px; left: 1013;opacity: 0%}
+    100% {top: 6454px; left: 1013;opacity: 100%} 
+}
+.Black7:hover{color:black;}
+
+.Artboard8{width: 1097px; height: 780px; left: -84px; top: 7464px; position: absolute; display:flex;}
+.IStill{width: 283px; height: 163px; left: 730px; top: 7464px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: istill;
+     animation-delay: 27.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+@keyframes istill{
+    0% {top: 7600px; left: 847;opacity: 0%}
+    100% {top: 7464px; left: 847;opacity: 100%} 
+}
+.WhenI8{width: 563px; height: 164px; left: 147px; top: 7280px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+    animation-name: wheni8;
+     animation-delay: 26.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes wheni8{
+    0% {top: 7280px; left: 0px; opacity: 0%}
+    100% {top: 7280px; left: 147px; opacity: 100%} 
+}
+.Died{width: 330px; height: 164px; left: 730px; top: 7279px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: died;
+     animation-delay: 26.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes died{
+    0% {top: 7280px; left: 147px; opacity: 0%}
+    100% {top: 7280px; left: 730px; opacity: 100%} 
+}
+.Black8{width: 280px; height: 163px; left: 1013px; top: 7464px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: black8;
+     animation-delay: 27.5s;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+     animation-fill-mode: backwards;
+}
+.Black8:hover{color:black;}
+@keyframes black8{
+    0% {top: 7600px; left: 1013;opacity: 0%}
+    100% {top: 7464px; left: 1013;opacity: 100%} 
+}
+
+.Artboard9{width: 1440px; height: 1024px; left: 0px; top: 8192px; position: absolute;}
+.AndYou{width: 446px; height: 164px; left: 147px; top: 8288px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: andyou;
+     animation-delay: 30.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes andyou{
+    0% {top: 8288px; left: 147px; opacity: 0%}
+    100% {top: 8288px; left: 147px; opacity: 100%} 
+}
+.White{width: 330px; height: 163px; left: 613px; top: 8289px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: white9;
+     animation-delay: 30.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes white9{
+    0% {top: 8289px; left: 613px; opacity: 0%}
+    100% {top: 8289px; left: 613px; opacity: 100%} 
+}
+.Fellow{width: 329px; height: 164px; left: 964px; top: 8288px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: fellow;
+     animation-delay: 30.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes fellow{
+    0% {top: 8289px; left: 964px; opacity: 0%}
+    100% {top: 8289px; left: 964px; opacity: 100%} 
+}
+
+.DaTrNg{
+    animation-name: newlayer;
+    animation-delay: 33.5s;
+    animation-fill-mode: backwards;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+}
+@keyframes newlayer{
+    0%{display:none;}
+    100% {display:flex;}
+}
+
+#BacgroundDaTrang{width: 1440px; height: 9216px; left: 0px; top: 0px; position: absolute; background-color: #D7C5AD;}
+#WhoIsColoredPoMeMonFrReBlanc{width: 1378.80px; height: 344.90px; left: 32px; top: 214px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;}
+#LOpoldSDarSenghor{width: 679px; height: 164px; left: 615px; top: 578.90px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D14B29; font-size: 64px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;}
+
+#You{width: 166px; height: 163px; left: 147px; top: 8748px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: you;
+     animation-delay: 3.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you{
+    0% {top: 8000px; left: 147px; opacity: 0%};
+    100% {top: 8748px; left: 147px; opacity: 100%;} 
+}
+#WhenYou2{width: 564px; height: 164px; left: 497px; top: 8931px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: whenyou2;
+     animation-delay: 2.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou2{
+    0% {top: 8931px; left:1500px;; opacity: 0%;}
+    100% {top: 8931px; left: 497px; opacity: 100%;} 
+}
+#Born{width: 214px; height: 164px; left: 1080px; top: 8930px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #FD97A5; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: born2;
+     animation-delay: 2.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes born2{
+    0% {top: 8930px; left:1500px; opacity: 0%;}
+    100% {top: 8930px; left: 1080px; opacity: 100%;} 
+}
+#Pink{width: 281px; height: 163px; left: 313px; top: 8748px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: pink2;
+     animation-delay: 3.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#Pink:hover{color:#FD97A5;}
+@keyframes pink2{
+    0% {top: 8000px; left: 313px; opacity: 0%;}
+    100% {top: 8748px; left: 313px; opacity: 100%;} 
+}
+#BeDaTrang{width: 1081px; height: 768px; left: 213px; top: 8121px; position: absolute;
+     animation-name: anhdatrang;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes anhdatrang{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+
+#Artboard3-1{width: 1287px; height: 915px; left: 360px; top: 7031px; position: absolute;
+     animation-name: artboard3;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard3{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#You3{width: 166px; height: 163px; left: 147px; top: 7738px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: you3;
+     animation-delay: 7.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you3{
+    0% {top: 7000px; left: 147px; opacity: 0%;}
+    100% {top: 7738px; left: 147px; opacity: 100%;} 
+}
+#WhenYou3{width: 564px; height: 164px; left: 263px; top: 7921px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: whenyou3;
+     animation-delay: 6.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou3{
+    0% {top: 7921px; left:1500px;; opacity: 0%;}
+    100% {top: 7921px; left: 263px; opacity: 100%;} 
+}
+#GrowUp3{width: 447px; height: 164px; left: 847px; top: 7921px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: growup3;
+     animation-delay: 6.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes growup3{
+    0% {top: 7921px; left:1500px; opacity: 0%;}
+    100% {top: 7921px; left: 847px; opacity: 100%;} 
+}
+#White3{width: 280px; height: 163px; left: 313px; top: 7738px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: white3;
+     animation-delay: 7.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#White3:hover{color:white;}
+@keyframes white3{
+    0% {top: 7000px; left: 313px; opacity: 0%;}
+    100% {top: 7738px; left: 313px; opacity: 100%;} 
+}
+
+#Artboard4-1{width: 1004px; height: 714px; left: 290px; top: 6178px; position: absolute;
+     animation-name: artboard4;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard4{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#You4{width: 166px; height: 163px; left: 147px; top: 6729px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: you4;
+     animation-delay: 11.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you4{
+    0% {top: 6000px; left: 147px; opacity: 0%;}
+    100% {top: 6729px; left: 147px; opacity: 100%;} 
+}
+#WhenYou4{width: 564px; height: 164px; left: 263px; top: 6912px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;     
+     animation-name: whenyou4;
+     animation-delay: 10.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou4{
+    0% {top: 6912px; left:1500px;; opacity: 0%;}
+    100% {top: 6912px; left: 263px; opacity: 100%;} 
+}
+#GoInSun4{width: 447px; height: 164px; left: 847px; top: 6912px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #FD947D; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: goinsun4;
+     animation-delay: 10.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes goinsun4{
+    0% {top: 6912px; left:1500px; opacity: 0%;}
+    100% {top: 6912px; left: 847px; opacity: 100%;} 
+}
+#Red4{width: 280px; height: 163px; left: 313px; top: 6729px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: red4;
+     animation-delay: 11.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#Red4:hover{color: #FD947D;}
+@keyframes red4{
+    0% {top: 6000px; left: 313px; opacity: 0%;}
+    100% {top: 6729px; left: 313px; opacity: 100%;} 
+}
+
+#Artboard5-1{width: 1085px; height: 772px; left: 248px; top: 5019px; position: absolute;
+     animation-name: artboard5;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard5{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#You5{width: 166px; height: 163px; left: 148px; top: 5720px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: you5;
+     animation-delay: 15.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you5{
+    0% {top: 5000px; left: 148px; opacity: 0%;}
+    100% {top: 5720px; left: 148px; opacity: 100%;} 
+}
+#WhenYou5{width: 518px; height: 164px; left: 498px; top: 5902px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: whenyou5;
+     animation-delay: 14.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou5{
+    0% {top: 5902px; left:1500px;; opacity: 0%;}
+    100% {top: 5902px; left: 498px; opacity: 100%;} 
+}
+#Cold5{width: 330px; height: 164px; left: 964px; top: 5902px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #9DCEFA; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: cold5;
+     animation-delay: 14.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes cold5{
+    0% {top: 5902px; left:1500px; opacity: 0%;}
+    100% {top: 5902px; left: 964px; opacity: 100%;} 
+}
+#Blue5{width: 280px; height: 163px; left: 314px; top: 5720px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: blue5;
+     animation-delay: 15.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#Blue5:hover{color: #9DCEFA;}
+@keyframes blue5{
+    0% {top: 5000px; left: 314px; opacity: 0%;}
+    100% {top: 5720px; left: 314px; opacity: 100%;} 
+}
+
+#Artboard6-1{width: 1027px; height: 730px; left: 477px; top: 4105px; position: absolute;
+     animation-name: artboard6;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard6{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#You6{width: 166px; height: 163px; left: 147px; top: 4710px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: you6;
+     animation-delay: 19.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you6{
+    0% {top: 4000px; left: 147px; opacity: 0%;}
+    100% {top: 4710px; left: 147px; opacity: 100%;} 
+}
+#WhenYou6{width: 563px; height: 164px; left: 380px; top: 4893px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: whenyou6;
+     animation-delay: 18.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou6{
+    0% {top: 4893px; left:1500px;; opacity: 0%;}
+    100% {top: 4893px; left: 380px; opacity: 100%;} 
+}
+#Yellow6{width: 397px; height: 163px; left: 313px; top: 4710px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: yellow6;
+     animation-delay: 19.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#Yellow6:hover{color: #FDE079;}
+@keyframes yellow6{
+    0% {top: 4000px; left: 313px; opacity: 0%;}
+    100% {top: 4710px; left: 313px; opacity: 100%;} 
+}
+#Scared6{width: 330px; height: 164px; left: 963px; top: 4893px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #FDE079; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: scared6;
+     animation-delay: 18.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes scared6{
+    0% {top: 4893px; left:1500px; opacity: 0%;}
+    100% {top: 4893px; left: 963px; opacity: 100%;} 
+}
+
+#Artboard7-1{width: 1428px; height: 1015px; left: -17px; top: 2839px; position: absolute;
+     animation-name: artboard7;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard7{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#You7{width: 166px; height: 163px; left: 147px; top: 3700px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+      animation-name: you7;
+     animation-delay: 23.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you7{
+    0% {top: 3000px; left: 147px; opacity: 0%;}
+    100% {top: 3700px; left: 147px; opacity: 100%;} 
+}
+#WhenYou7{width: 494px; height: 164px; left: 497px; top: 3883px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: whenyou7;
+     animation-delay: 22.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou7{
+    0% {top: 3883px; left:1500px;; opacity: 0%;}
+    100% {top: 3883px; left: 497px; opacity: 100%;} 
+}
+#Sick7{width: 330px; height: 164px; left: 964px; top: 3883px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #ABBB7F; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: sick7;
+     animation-delay: 22.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes sick7{
+    0% {top: 3883px; left:1500px; opacity: 0%;}
+    100% {top: 3883px; left: 964px; opacity: 100%;} 
+}
+#Green7{width: 280px; height: 163px; left: 313px; top: 3700px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: green7;
+     animation-delay: 23.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#Green7:hover{color: #ABBB7F;}
+@keyframes green7{
+    0% {top: 3000px; left: 313px; opacity: 0%;}
+    100% {top: 3700px; left: 313px; opacity: 100%;} 
+}
+
+#Artboard9-1{width: 1167px; height: 830px; left: 360px; top: 1981px; position: absolute;
+     animation-name: artboard8;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard8{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#You9{width: 213px; height: 163px; left: 147px; top: 2692px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+      animation-name: you9;
+     animation-delay: 27.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes you9{
+    0% {top: 2000px; left: 147px; opacity: 0%;}
+    100% {top: 2692px; left: 147px; opacity: 100%;} 
+}
+#AndWhenYou9{width: 798px; height: 164px; left: 263px; top: 2874px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: whenyou9;
+     animation-delay: 26.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes whenyou9{
+    0% {top: 2874px; left:1500px;; opacity: 0%;}
+    100% {top: 2874px; left: 263px; opacity: 100%;} 
+}
+#Died9{width: 330px; height: 164px; left: 964px; top: 2873px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: gray; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: died9;
+     animation-delay: 26.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes died9{
+    0% {top: 2873px; left:1500px; opacity: 0%;}
+    100% {top: 2873px; left: 964px; opacity: 100%;} 
+}
+#Gray9{width: 279px; height: 163px; left: 380px; top: 2692px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: gray9;
+     animation-delay: 27.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+#Gray9:hover{color: gray;}
+@keyframes gray9{
+    0% {top: 2000px; left: 380px; opacity: 0%;}
+    100% {top: 2692px; left: 380px; opacity: 100%;} 
+}
+
+
+#Artboard9-2{width: 1440px; height: 1024px; left: 0px; top: 1082px; position: absolute;
+     animation-name: artboard9;
+     animation-delay: 0.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 0.5s;
+     animation-timing-function: ease-out;
+}
+@keyframes artboard9{
+    0% {opacity: 0%};
+    100% {opacity: 100%;} 
+}
+#AndYouCallingMe{width: 1031px; height: 164px; left: 30px; top: 1131px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: callingme;
+     animation-delay: 30.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+}
+@keyframes callingme{
+    0% {top: 1131px; left: 30px; opacity: 0%;}
+    100% {top: 1131px; left: 30px; opacity: 100%;} 
+}
+
+#Colored{width: 447px; height: 163px; left: 964px; top: 1131px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #D24B28; font-size: 130px; font-family: Oooh Baby; font-weight: 400; word-wrap: break-word;
+     animation-name: colored9;
+     animation-delay: 30.5s;
+     animation-fill-mode: backwards;
+     animation-duration: 1s;
+     animation-timing-function: ease-out;
+} 
+#Colored:hover{color:black}
+@keyframes colored9{
+    0% {top: 1131px; left: 964px; opacity: 0%;}
+    100% {top: 1131px; left: 964px; opacity: 100%;} 
+}
